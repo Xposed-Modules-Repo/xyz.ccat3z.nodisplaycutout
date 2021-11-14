@@ -3,7 +3,7 @@
 强制应用在刘海/挖孔区域中呈现.
 主要用于小米Mix4这种挖了孔但又没挖孔的屏下摄像头手机.
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/ccat3z/no-display-cutout/master/screenshot.png)
 
 ## 使用方法
 
